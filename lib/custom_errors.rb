@@ -14,6 +14,9 @@ class Person
     end
   end
   class PartnerError < StandandError
+    def message 
+      
+    end
   end
 end
 
